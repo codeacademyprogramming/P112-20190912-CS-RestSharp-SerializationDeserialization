@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sattar\\Desktop\\P112\\C#\\20190912\\Solution20190912\\TestMath\\TestMath.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sattar\\Desktop\\P112\\C#\\20190912\\Solution20190912\\TestMath\\TestMath.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sattar\\Desktop\\P112\\C#\\20190912\\Solution20190912\\TestMath\\TestMath.csproj",
+        "projectName": "TestMath",
+        "projectPath": "C:\\Users\\sattar\\Desktop\\P112\\C#\\20190912\\Solution20190912\\TestMath\\TestMath.csproj",
+        "packagesPath": "C:\\Users\\sattar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sattar\\Desktop\\P112\\C#\\20190912\\Solution20190912\\TestMath\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sattar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

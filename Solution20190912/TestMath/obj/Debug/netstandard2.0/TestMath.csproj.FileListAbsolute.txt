@@ -1,0 +1,8 @@
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\bin\Debug\netstandard2.0\TestMath.deps.json
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\bin\Debug\netstandard2.0\TestMath.dll
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\bin\Debug\netstandard2.0\TestMath.pdb
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\obj\Debug\netstandard2.0\TestMath.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\obj\Debug\netstandard2.0\TestMath.AssemblyInfoInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\obj\Debug\netstandard2.0\TestMath.AssemblyInfo.cs
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\obj\Debug\netstandard2.0\TestMath.dll
+C:\Users\sattar\Desktop\P112\C#\20190912\Solution20190912\TestMath\obj\Debug\netstandard2.0\TestMath.pdb
